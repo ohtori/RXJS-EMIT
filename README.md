@@ -1,2 +1,3 @@
-# TRYING FOLLOW FUNCTIONAL STYLE #
+# RXJS library emitatiom #
+Trying follow a functional style
 
